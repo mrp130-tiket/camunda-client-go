@@ -7,7 +7,7 @@ import (
 	"runtime/debug"
 	"time"
 
-	camundaclientgo "github.com/citilinkru/camunda-client-go"
+	camundaclientgo "github.com/mrp130-tiket/camunda-client-go"
 )
 
 // Processor external task processor
